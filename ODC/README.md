@@ -30,13 +30,13 @@ The project combines **Python, Excel, Power BI, and data cleaning techniques** t
 
 The screenshots below show the final analysis and dashboard created for the project.
 
-![NYC Airbnb Dashboard](Assests_screenshots/dashboard_1.png)
+![NYC Airbnb Dashboard](ODC/Assests/dashboard_1.png)
 
-![NYC Airbnb Dashboard](Assests_screenshots/dashboard_2.png)
+![NYC Airbnb Dashboard](ODC/Assests/dashboard_2.png)
 
-![NYC Airbnb Dashboard](Assests_screenshots/dashboard_3.png)
+![NYC Airbnb Dashboard](ODC/Assests/dashboard_3.png)
 
-![NYC Airbnb Dashboard](Assests_screenshots/dashboard_4.png)
+![NYC Airbnb Dashboard](ODC/Assests/dashboard_4.png)
 
 ## 🔍 Key Analysis Areas
 
